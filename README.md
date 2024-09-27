@@ -3,9 +3,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Hi!+my+name+is+Guilherme+Mourão;I'm+a+Computer+Science+student;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guimourf&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Mourão github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimourf&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />
+  <h1> </h1>
+  <h3> About me </h3>
+  <h5> I'm majoring Computer Science at Unifor. <br> My goals are keep improving my programing skills and acquire more knowledge</h5>
+<h2> </h2>
 </div>
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guimourf&show_icons=true&count_private=true&hide_border=false&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Mourão github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimourf&layout=compact&hide_border=false&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />
+</div>
+
 
  ### 📋 Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
